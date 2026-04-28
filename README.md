@@ -1,1 +1,2 @@
 # Dissertation-LLMs-ESG-Investor-Emotions
+This interdisciplinary study investigates the area of behaviroual finance and computational linguistics. We did prompt engineering by applying psychological emotion theory, specifically Ekman's basic emotion and APA dictionary to embed emotion definitions into LLM prompts, instructing the model to infer the emotion an investor would experience. We then benchmarked the LLM-generated emotion score with FinBERT and DistilRoBERTa, and examined their relationships with oil, natural gas and clean energy returns.
