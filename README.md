@@ -6,7 +6,7 @@ This interdisciplinary study investigates the area of behavioural finance and af
 
 | Method | Type |
 |---|---|
-| Theory-Grounded LLM | Zero-shot prompt |
+| Psychologically informed LLM | Zero-shot prompt |
 | DistilRoBERTa | Fine-tuned classifier |
 | FinBERT | Sentiment baseline |
 
