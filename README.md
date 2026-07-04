@@ -17,4 +17,5 @@ This interdisciplinary study investigates the area of behavioural finance and af
 - **News:** ESG articles from ProQuest (2016–2026)
 - **Returns:** S&P Global Clean Energy Transition Index, S&P GSCI Natural Gas, S&P Global Oil Index
 
+
 Thanks to Dr François Sicard and Mr Maxime Nicolas for their supervision.
