@@ -19,5 +19,4 @@ This interdisciplinary study investigates the area of behavioural finance and af
 <br>
 <br>
 <br>
-<br>
 Thanks to Dr François Sicard and Mr Maxime Nicolas for their supervision.
